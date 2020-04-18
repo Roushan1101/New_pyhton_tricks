@@ -1,4 +1,4 @@
-arr=[7,9,9,9,9,9,9,9,0]
+arr=[7,9,9,5,7,8,5,0]
 print(set(arr))                  #set removes all the duplicates
 m,n=tuple(map(int,input().split()))  # great merhod
 print(m,n)
